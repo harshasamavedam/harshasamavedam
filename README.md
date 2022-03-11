@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshasamavedam
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m learning addict
 - 💞️ I’m looking to collaborate on big data
 - 📫 How to reach me samavedam1999@gmail.com
 
